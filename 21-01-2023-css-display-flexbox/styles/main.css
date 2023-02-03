@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 60%;
+    height: 1000px;
+    border:2px solid blue;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.box{
+    border:2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    
+}

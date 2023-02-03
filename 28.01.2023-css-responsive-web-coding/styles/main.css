@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: green;
+}
+
+@media screen and ( min-width:1001px ){
+    
+    body{
+        background-color: blue;
+    }
+
+}
+
+@media screen and ( min-width:1200px ) {
+    body{
+        background-color: red;
+    }    
+  
+}
+    

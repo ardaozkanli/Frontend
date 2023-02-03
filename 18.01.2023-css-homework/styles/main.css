@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.page{
+  padding-left: 20px;
+  padding-top: 20px;
+
+}
+.circle{
+  background-color: #ffc0cb;
+  border: 10px solid rgba(0, 0, 0,1);
+  border-radius: 115px;
+  width:100px;
+  height:100px;
+  color:white;
+}
+.square{
+  background-color: #ffc0cb;
+  border: 10px solid rgba(0, 0, 0,1);
+  width:100px;
+  height:100px;
+  color:white;
+}
+.new{
+  background-color: #0000FF;
+}
+.square2{
+  background-color: #0000FF;
+}
+  
+  
+
